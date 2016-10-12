@@ -1,0 +1,63 @@
+<!--index.wxml-->
+
+<scroll-view scroll-y="true" style="height:{{ windowHeight }}px"  bindscrolltoupper="pullDownRefresh" bindscrolltolower="pullUpLoad" bindscroll="scroll" scroll-top="{{scrollTop}}">
+    <view class="section">
+        <view class="top-refresh">下拉更新</view>
+        <view class="list">
+            <view class="title">今天，让星辰大海记住这个日子</view>
+            <view class="bottom">专题 1万评论 41分钟前</view>
+        </view>
+        <view class="list">
+            <view class="title">今天，让星辰大海记住这个日子</view>
+            <view class="bottom">专题 1万评论 41分钟前</view>
+        </view>
+        <view class="list">
+            <view class="title">今天，让星辰大海记住这个日子</view>
+            <view class="bottom">专题 1万评论 41分钟前</view>
+        </view>
+        <view class="list">
+            <view class="title">今天，让星辰大海记住这个日子</view>
+            <view class="bottom">专题 1万评论 41分钟前</view>
+        </view>
+        <view class="list">
+            <view class="title">今天，让星辰大海记住这个日子</view>
+            <view class="bottom">专题 1万评论 41分钟前</view>
+        </view>
+        <view class="list">
+            <view class="title">今天，让星辰大海记住这个日子</view>
+            <view class="bottom">专题 1万评论 41分钟前</view>
+        </view>
+        <view class="list">
+            <view class="title">今天，让星辰大海记住这个日子</view>
+            <view class="bottom">专题 1万评论 41分钟前</view>
+        </view>
+        <view class="list">
+            <view class="title">今天，让星辰大海记住这个日子</view>
+            <view class="bottom">专题 1万评论 41分钟前</view>
+        </view>
+        <view class="list">
+            <view class="title">今天，让星辰大海记住这个日子</view>
+            <view class="bottom">专题 1万评论 41分钟前</view>
+        </view>
+        <view class="list">
+            <view class="title">今天，让星辰大海记住这个日子</view>
+            <view class="bottom">专题 1万评论 41分钟前</view>
+        </view>
+        <view class="list">
+            <view class="title">今天，让星辰大海记住这个日子</view>
+            <view class="bottom">专题 1万评论 41分钟前</view>
+        </view>
+        <view class="list">
+            <view class="title">今天，让星辰大海记住这个日子</view>
+            <view class="bottom">专题 1万评论 41分钟前</view>
+        </view>
+        <view class="list">
+            <view class="title">今天，让星辰大海记住这个日子</view>
+            <view class="bottom">专题 1万评论 41分钟前</view>
+        </view>
+        <view class="list">
+            <view class="title">今天，让星辰大海记住这个日子</view>
+            <view class="bottom">专题 1万评论 41分钟前</view>
+        </view>
+    </view>
+</scroll-view>

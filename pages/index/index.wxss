@@ -1,0 +1,18 @@
+/**index.wxss**/
+
+.list {
+  padding: 30rpx 0rpx;
+  margin: 0rpx 20rpx;
+  border-bottom: 1rpx solid #777777;
+}
+.title {
+  padding-bottom: 20rpx
+}
+.bottom {
+  font-size: 1rpx;
+}
+.top-refresh {
+  height: 20px;
+  text-align: center;
+  padding: 30px 0 10px 0;
+}
